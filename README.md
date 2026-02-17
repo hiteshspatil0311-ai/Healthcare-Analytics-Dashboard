@@ -1,4 +1,4 @@
-##🏥 Hospital Management System Dashboard
+🏥 Hospital Management System Dashboard
 📊 An Interactive Healthcare Analytics Dashboard built using Power BI to monitor hospital performance, revenue, and disease trends.
 
 🚀 Project Overview
@@ -8,9 +8,13 @@ The Hospital Management System Dashboard is a complete healthcare analytics solu
 This dashboard enables:
 
 Monitoring key performance indicators (KPIs)
+
 Tracking revenue and pending payments
+
 Analyzing doctor specialization distribution
+
 Identifying top diseases
+
 Comparing state-wise financial performance
 
 🎯 Business Objective
