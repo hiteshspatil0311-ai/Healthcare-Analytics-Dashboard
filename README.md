@@ -1,30 +1,35 @@
-#🏥 Hospital Management System Dashboard
-📊 An Interactive Hospital Analytics Dashboard for Monitoring Patients, Doctors, Billing & Disease Trends
+🏥 Hospital Management System Dashboard
+📊 An Interactive Healthcare Analytics Dashboard built using Power BI to monitor hospital performance, revenue, and disease trends.
 
-#🚀 Project Overview
+🚀 Project Overview
 
-The Hospital Management System Dashboard is a data analytics project designed to monitor hospital performance using interactive visualizations.
+The Hospital Management System Dashboard is a complete healthcare analytics solution designed to visualize hospital operational and financial data.
 
-#This dashboard provides deep insights into:
-👨‍⚕️ Doctor specialization distribution
-🧑‍🤝‍🧑 Patient demographics
-💰 Revenue, payments & pending amounts
-🦠 Most common diseases
-📍 State-wise financial performance
-It helps hospital management teams make data-driven decisions efficiently.
+This dashboard enables:
 
-#🎯 Key Insights Delivered
+Monitoring key performance indicators (KPIs)
+Tracking revenue and pending payments
+Analyzing doctor specialization distribution
+Identifying top diseases
+Comparing state-wise financial performance
 
-✔ Total Patients: 10K+
-✔ Average Patient Age: 45+
-✔ Total Doctors: 9K+
-✔ Total Revenue: 1+ Billion
-✔ Payment Mode Distribution Analysis
-✔ State-wise Pending vs Received Analysis
-✔ Top Diseases Trend
+🎯 Business Objective
 
-#📊 Dashboard Features
-##📌 KPI Cards
+Hospitals generate large amounts of data daily.
+This dashboard transforms raw data into meaningful insights to help management make data-driven decisions efficiently.
+
+| KPI                 | Value        |
+| ------------------- | ------------ |
+| 👥 Total Patients   | 10,000+      |
+| 👨‍⚕️ Total Doctors | 9,465        |
+| 📅 Average Age      | 45.69        |
+| 💰 Total Revenue    | 1.03 Billion |
+| 💵 Amount Paid      | 510M+        |
+| ⏳ Amount Pending    | 523M+        |
+
+📈 Dashboard Visualizations
+
+🔹 KPI Cards
 Total Patients
 Average Age
 Total Doctors
@@ -32,87 +37,64 @@ Total Revenue
 Amount Paid
 Amount Pending
 
-#📌 Analytical Visuals
-
+🔹 Charts
 Doctors by Specialization (Bar Chart)
 Total Bill by Payment Mode (Donut Chart)
 Top Diseases by Patient Count (Line Chart)
 State-wise Pending vs Received (Stacked Chart)
 
-#📌 Dynamic Filters
-
+🔹 Filters
 Doctor Name
 State
 City
 Treatment Type
 Registration Date
 
-#🖼 Dashboard Screenshots
-🔹 Main Dashboard
-🔹 Home Page
+🖼 Screenshots
+📌 Main Dashboard
+![Alt text]((https://github.com/hiteshspatil0311-ai/Healthcare-Analytics-Dashboard/blob/main/hospital%20managment%20dashbord%20png.png))
 
-#🛠 Tech Stack Used
-📊 Power BI – Data Visualization & Dashboarding
-🧮 Data Modeling & DAX – Calculated Measures
-📁 CSV Dataset – Source Data
-🔄 Data Cleaning & Transformation
+📌 Home Page
+![Alt text](https://github.com/hiteshspatil0311-ai/Healthcare-Analytics-Dashboard/blob/main/hospital%20home%20page%20png.png)
 
-#📂 Project Structure
+🛠 Tools & Technologies Used
+
+Power BI Desktop
+DAX (Data Analysis Expressions)
+Data Modeling
+CSV Dataset
+Data Cleaning & Transformation
+
+📂 Project Structure
+
 Hospital-Management-System/
 │── README.md
-│── Hospital_Dashboard.pbix
+│── Hospital_Management_Dashboard.pbix
 │── Dataset/
 │     └── hospital_data.csv
 │── Screenshots/
-│     └── dashboard.png
-⚙️ How to Use
+│     ├── dashboard.png
+│     └── home.png
 
-#Clone the repository:
-git clone https://github.com/your-username/Hospital-Management-System.git
 
-Open the .pbix file using Power BI Desktop
-Explore:
-Apply filters
-Hover over visuals
-Analyze trends
+🧠 Skills Demonstrated
 
-#📈 Business Use Case
+Data Cleaning
+Data Modeling
+DAX Measures
+KPI Design
+Dashboard UI/UX Design
+Business Insight Generation
 
-This dashboard can be used by:
-🏥 Hospital Administrators
-📊 Data Analysts
-💼 Healthcare Management Teams
-💰 Finance Departments
+🔮 Future Improvements
 
-#To track:
-Revenue performance
-Operational efficiency
-Disease trends
-Regional performance
+Real-time database integration
+Deployment on Power BI Service
+Predictive analytics integration
+Role-based access control
 
-#📺 Reference Tutorial
+👤 Author
 
-This project is inspired and implemented by following this tutorial:
-
-👉 https://youtu.be/0ygQ9Z_G7gk
-
-#🧠 What I Learned
-
-Real-world healthcare data modeling
-KPI calculation using DAX
-Dashboard layout & UI design
-Business storytelling with data
-Performance optimization in Power BI
-
-#🌟 Future Improvements
-
-Add real-time database integration
-Add patient admission forecasting
-Deploy dashboard on Power BI Service
-Add role-based access control
-
-#📬 Connect With Me
-
-👤 Hitesh Patil
-📌 Data Analytics Enthusiast
-🔗 LinkedIn: (Add your LinkedIn profile link here)
+Hitesh Patil
+Aspiring Data Analyst
+🔗 LinkedIn: (https://www.linkedin.com/in/hitesh-patil-882210245/)
