@@ -55,10 +55,12 @@ Treatment Type
 Registration Date
 
 🖼 Screenshots
+
 📌 Main Dashboard
 ![Alt text](https://github.com/hiteshspatil0311-ai/Healthcare-Analytics-Dashboard/blob/main/hospital%20managment%20dashbord%20png.png)
 
 📌 Home Page
+
 ![Alt text](https://github.com/hiteshspatil0311-ai/Healthcare-Analytics-Dashboard/blob/main/hospital%20home%20page%20png.png)
 
 🛠 Tools & Technologies Used
