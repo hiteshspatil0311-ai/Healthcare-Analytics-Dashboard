@@ -1,4 +1,4 @@
-🏥 Hospital Management System Dashboard
+##🏥 Hospital Management System Dashboard
 📊 An Interactive Healthcare Analytics Dashboard built using Power BI to monitor hospital performance, revenue, and disease trends.
 
 🚀 Project Overview
