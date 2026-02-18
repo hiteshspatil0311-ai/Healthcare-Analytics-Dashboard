@@ -34,12 +34,12 @@ This dashboard transforms raw data into meaningful insights to help management m
 📈 Dashboard Visualizations
 
 🔹 KPI Cards
-Total Patients
-Average Age
-Total Doctors
-Total Revenue
-Amount Paid
-Amount Pending
+Total Patients 
+Average Age 
+Total Doctors 
+Total Revenue 
+Amount Paid 
+Amount Pending 
 
 🔹 Charts
 Doctors by Specialization (Bar Chart)
